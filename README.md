@@ -39,17 +39,17 @@ Ferramenta  e IDE usada:
 <h5>Create de Hotel</h5>
 
 <p>
-  <img width=900 src="assets/img_create.png">
+  <img  src="assets/img_create.png">
 </p>
 
 <h5>Index de Hoteis</h5>
 <p>
-  <img width=900 src="assets/img_index_all.png">
+  <img  src="assets/img_index_all.png">
 </p>
 
 <h5>Index por id</h5>
 <p>
-  <img width=900 src="assets/img_index_byid.png">
+  <img  src="assets/img_index_byid.png">
 </p>
 
 <h5>Update de Hotel</h5>
@@ -59,7 +59,7 @@ Ferramenta  e IDE usada:
 
 <h5>Delete de Hotel</h5>
 <p>
-  <img width=900 src="assets/img_delete.png">
+  <img  src="assets/img_delete.png">
 </p>
 
 <h3>Crud de Cliente</h3>
@@ -67,26 +67,26 @@ Ferramenta  e IDE usada:
 <h5>Create de Cliente</h5>
 
 <p>
-  <img width=900 src="assets/img_createCliente.png">
+  <img  src="assets/img_createCliente.png">
 </p>
 
 <h5>Index de Clientes</h5>
 <p>
-  <img width=900 src="assets/img_index_all_cliente.png">
+  <img  src="assets/img_index_all_cliente.png">
 </p>
 
 <h5>Index por id</h5>
 <p>
-  <img width=900 src="assets/img_index_byid_cliente.png">
+  <img  src="assets/img_index_byid_cliente.png">
 </p>
 
 <h5>Update de Cliente</h5>
 <p>
-  <img width=900 src="assets/img_updateCliente.png">
+  <img  src="assets/img_updateCliente.png">
 </p>
 
 <h5>Delete de Cliente</h5>
 <p>
-  <img width=900 src="assets/img_deleteCliente.png">
+  <img  src="assets/img_deleteCliente.png">
 </p>
 
